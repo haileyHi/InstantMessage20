@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375467290736",
+    "firebase_url": "https://instantmessage20-c5fd1.firebaseio.com",
+    "project_id": "instantmessage20-c5fd1",
+    "storage_bucket": "instantmessage20-c5fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375467290736:android:bb3e2790cae023e10984b5",
+        "android_client_info": {
+          "package_name": "project.instantmessage20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375467290736-0p5582kmcj4cn94lblvgh4d1o6pr6uvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.instantmessage20",
+            "certificate_hash": "52965999ee2f702cf57492b4ae18563b9811b107"
+          }
+        },
+        {
+          "client_id": "375467290736-v6ahvhchsp130bnealguh7r530ok0bgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEXJdGZL07fTYmfB-Lzw_BS7xRI46VAVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375467290736-v6ahvhchsp130bnealguh7r530ok0bgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
